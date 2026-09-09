@@ -41,6 +41,17 @@ The standard collection keeps the editor dark and readable while giving each the
   <img src="assets/preview-css.png" width="100%" alt="Zenkai Theme CSS Preview" />
 </div>
 
+## Transparency and Readability
+
+All Zenkai themes use translucent workbench surfaces for a lighter, more layered editing experience:
+
+- The editor keeps a subtle transparent background while preserving code readability.
+- Sidebars, panels, tabs, menus, terminals and widgets use translucent backgrounds.
+- Hover states and active list selections use alpha colors instead of fully opaque blocks.
+- The active line is highlighted with the theme's accent color, and the cursor, selections and line numbers have stronger contrast.
+
+These adjustments make the file, extension and suggestion lists easier to scan while keeping each neon variant's visual identity.
+
 ## The Themes
 
 The free extension includes 11 color variants built on top of the signature ultra-deep dark background:

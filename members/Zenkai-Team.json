@@ -1,0 +1,22 @@
+[
+    {
+        "login": "EnzoToniato567",
+        "name": "EnzoToniato567",
+        "tfa_enabled": false,
+        "is_public": false,
+        "role": "Owner",
+        "saml_name_id": null,
+        "tfa_level": "disabled",
+        "organization_roles_count": 0
+    },
+    {
+        "login": "ViselBrx",
+        "name": "ViselBrx",
+        "tfa_enabled": true,
+        "is_public": false,
+        "role": "Owner",
+        "saml_name_id": null,
+        "tfa_level": "insecure",
+        "organization_roles_count": 0
+    }
+]
